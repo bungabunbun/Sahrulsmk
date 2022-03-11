@@ -7,10 +7,10 @@ while pilihan=="y":
      List Menu Minuman Kopi 
  
     ==============================
-    A. ES Kopi Susu     : Rp 11.000
-    B. ES Kopi Coklat   : Rp 12.000
-    C. ES Kopi Hitam    : Rp 11.000
-    D. Ice Americano    : Rp 14.000
+    A. ES Kopi Susu    : Rp 11.000
+    B. ES Kopi Coklat  : Rp 12.000
+    C. ES Kopi Hitam   : Rp 11.000
+    D. Ice Americano   : Rp 14.000
     ==============================
     """)
     pesan=str(input("masukkan list abjad menu kopi ="))
